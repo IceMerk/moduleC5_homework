@@ -1,0 +1,20 @@
+body {
+    margin: 0 auto;
+    max-width: 10em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+.cards {
+    margin-top: 10px;
+}

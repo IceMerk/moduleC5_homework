@@ -1,0 +1,27 @@
+section {
+    margin: 0 auto;
+    max-width: 20em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 10px;
+    border-radius: 4px;
+    background-color: green;
+    color: white;
+    font-size: 18px;
+    padding: 0px 15px;
+}
+
+.card-img {
+    width: 200px;
+    height: 150px;
+    margin-top: 20px;
+}
